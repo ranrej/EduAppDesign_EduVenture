@@ -1,5 +1,7 @@
 # 🌳 EduVenture - A Fun Way to Learn Math! 🎲
 
+**Project for CSCI 4080U - Edu. App Design**
+
 EduVenture is an interactive, **forest-themed** math learning app designed to make arithmetic fun and engaging for children aged **6 to 9**. Through structured lessons, exciting games, and an **Escape Room challenge**, EduVenture helps young learners develop strong math skills while having fun! 
 
 
